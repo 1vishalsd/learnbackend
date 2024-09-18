@@ -1,0 +1,11 @@
+{
+  "name": "backendinjs",
+  "version": "1.0.0",
+  "description": "learn the backend in js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Vishal Singh",
+  "license": "ISC"
+}
